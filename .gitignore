@@ -1,0 +1,7 @@
+vendor
+vendor/
+vendor/*
+cache/
+.idea/*
+log/*
+log/frontend_dev.log
