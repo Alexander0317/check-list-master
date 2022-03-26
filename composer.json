@@ -15,7 +15,7 @@
         "psr/log": "^1.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "5.0"
+        "phpunit/phpunit": "9.5.19"
     },
     "require-li": {
         "spipu/html2pdf": "5.*"
